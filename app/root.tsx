@@ -12,7 +12,7 @@ import sharedStyles from '~/styles/tailwind.css';
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "New Remix App",
+  title: "Merdeka 2.0 for Kerja Sama Team",
   viewport: "width=device-width,initial-scale=1",
 });
 
