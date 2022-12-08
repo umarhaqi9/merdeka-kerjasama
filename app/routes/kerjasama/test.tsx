@@ -36,6 +36,17 @@ const DATA_STUDENT = [
       revStat: 'Not Reviewed',
   },
 
+  {
+    id: '00000045958',
+    name: 'Joshua Kristiadi',
+    email: 'joshua.kristiadi@student.umn.ac.id',
+    regisTerm: 'Semester Ganjil 2022/2023',
+    program: 'Sistem Informasi',
+    university: 'Universitas Multimedia Nusantara',
+    result: 'Uploaded',
+    revStat: 'Not Reviewed',
+},
+
 ]
 
 return (
