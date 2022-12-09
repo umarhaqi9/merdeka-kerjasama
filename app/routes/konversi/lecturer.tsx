@@ -40,8 +40,6 @@ const DATA_STUDENT = [
 
 return (
 <main>
-{/* <h1>Konversi page</h1>
-<Link to="/">Go back to main page</Link> */}
 
     {/* Sidebar start */}
     <div className="hidden md:fixed md:inset-y-0 md:flex md:w-64 md:flex-col">
